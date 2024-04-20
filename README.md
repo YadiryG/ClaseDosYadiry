@@ -12,6 +12,6 @@ creación de repositorios y manejo de MarkDown
   [Google](https://www.google.com)
 
   *Talento tech* 
-**Yadiry** o __Yadiry__
-***Programacion*** o ___Programacion___
+**Yadiry** 
+***Programacion*** 
 
