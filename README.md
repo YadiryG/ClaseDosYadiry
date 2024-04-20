@@ -9,4 +9,9 @@ creación de repositorios y manejo de MarkDown
 
 
   ## Referencias
-  [Google](https://www.google.com) 
+  [Google](https://www.google.com)
+
+  *Talento tech* 
+**Yadiry** o __Yadiry__
+***Programacion*** o ___Programacion___
+
