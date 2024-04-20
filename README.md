@@ -100,9 +100,7 @@ Uso de biñetas
 ```python
 def hola_mundo():
     print("Hola, mundo!")
-```
-
-## Tablas
+```## Tablas
 | Encabezado 1 | Encabezado 2 | Encabezado 3 |
 |--------------|--------------|--------------|
 | Texto 1      | Texto 2      | Texto 3      |
