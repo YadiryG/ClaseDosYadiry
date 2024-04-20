@@ -108,17 +108,3 @@ def hola_mundo():
 | Texto 1      | Texto 2      | Texto 3      |
 | Texto 4      | Texto 5      | Texto 6      |
 
-## Citas
-> Esto es una cita.
-
-## Listas de tareas
-- [x] Tarea completada
-- [ ] Tarea pendiente
-
-## Líneas horizontales
----
-o
-***
-## Enlaces de interes
-
-<a href="https://docs.github.com/es/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax" target="_blank">- Guía MarkDown</a>
