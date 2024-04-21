@@ -109,6 +109,6 @@ def hola_mundo():
 
 ## imagenes 
 <p align="center">
-<img src="./logos/luna.jpg" height="100">
+<img src="./logos/luna.jpg" height="150">
 </p> 
 
