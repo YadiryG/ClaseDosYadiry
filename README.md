@@ -23,7 +23,7 @@ Uso de biñetas
 
 ## Encabezados
 ```markdown
-## Encabezados
+## Encabezados 
 
 ```
 
