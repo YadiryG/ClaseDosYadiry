@@ -28,7 +28,7 @@ Uso de biñetas
 ```
 
 
-# Encabezado 1 (más grande)
+# Encabezado 1 (más grande) 
 ```markdown
 # Encabezado 1 (más grande)
 
