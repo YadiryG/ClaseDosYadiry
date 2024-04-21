@@ -76,7 +76,7 @@ Uso de biñetas
 1. lista ordenada
 
 ```markdown
-- lista no ordenada
+- lista no ordenada 
 
 1. lista ordenada
 
